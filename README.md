@@ -1,4 +1,6 @@
-# CodersSchool
+# CodersSchool <img src="https://avatars.githubusercontent.com/u/44933664?s=48&v=4" height="30" alt="CodersSchool  logo"  />
+
+
 
 This GitHub project contains my solutions to tasks and homework assignments from the Coderschool course.
 
