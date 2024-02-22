@@ -12,7 +12,7 @@ Feel free to explore my solutions within this repository!
 <div align="center">
 <b>This repository is not finished yet.</b>
 
-![50%](https://progress-bar.dev/4/?title=Progress)
+![50%](https://progress-bar.dev/6/?title=Progress)
 </div>
 
 ## Tehnologies
@@ -21,6 +21,9 @@ Feel free to explore my solutions within this repository!
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus  logo"  />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cmake/cmake-original.svg" height="30" alt="cmake logo"  />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="30" alt="bash logo"  />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
 
 
 </div>
@@ -34,4 +37,6 @@ Feel free to explore my solutions within this repository!
 	- [for loop test](./ProgrammingBasics/forLoopTest.cpp) - Add to array next odd numbers.
 	- [calculate](./ProgrammingBasics/calculate) - (README) simple calculator with tests.
 	- [fibanacci](./ProgrammingBasics/fibanacci) - (README) fibonacci sequence iterative and recursive.
+2. [Basics of programming tools](./BasicsOfProgrammingTools/)
+	- [terminal magic](./BasicsOfProgrammingTools/TerminalMagic/) - basic of Linux commands.
 
