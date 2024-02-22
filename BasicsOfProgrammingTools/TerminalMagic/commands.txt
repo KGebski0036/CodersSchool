@@ -1,0 +1,18 @@
+ 6717  ps aux > processes.txt
+ 6718  cp processes.txt copy.txt
+ 6719  mkdir copy
+ 6720  mv copy.txt copy/
+ 6721  wc -l processes.txt >> processes.txt
+ 6722  grep -n /bin processes.txt >> processes.txt
+ 6723  grep -n /bin processes.txt
+ 6724  grep -n /bin processes.txt | cat >> processes.txt
+ 6725  history
+ 6726  tail -N12 > commands.txt
+ 6727  tail help
+ 6728  tail --help
+ 6729  man tail
+ 6730  tail -n=12 > commands.txt
+ 6731  tail -n12 > commands.txt
+ 6732  cat commands.txt
+ 6733  man tail
+ 6734  history
