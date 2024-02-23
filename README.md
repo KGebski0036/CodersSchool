@@ -12,7 +12,7 @@ Feel free to explore my solutions within this repository!
 <div align="center">
 <b>This repository is not finished yet.</b>
 
-![50%](https://progress-bar.dev/6/?title=Progress)
+![14%](https://progress-bar.dev/14/?title=Progress)
 </div>
 
 ## Tehnologies
@@ -35,8 +35,21 @@ Feel free to explore my solutions within this repository!
 	- [max](./ProgrammingBasics/max.cpp) - Find max value from 3 numbers.
 	- [multiply](./ProgrammingBasics/multiply.cpp) - Multiply 2 numbers.
 	- [for loop test](./ProgrammingBasics/forLoopTest.cpp) - Add to array next odd numbers.
-	- [calculate](./ProgrammingBasics/calculate) - (README) simple calculator with tests.
-	- [fibanacci](./ProgrammingBasics/fibanacci) - (README) fibonacci sequence iterative and recursive.
+	- [calculate](./ProgrammingBasics/calculate) - (*README*) simple calculator with tests.
+	- [fibanacci](./ProgrammingBasics/fibanacci) - (*README*) fibonacci sequence iterative and recursive.
+	- [print vector](./ProgrammingBasics/printVector.cpp) - Print an elements of vector of strings.
+	- [concatinate vectors](./ProgrammingBasics/concatinateVectors.cpp) - Concatinate two vectors. Contain an optimized and unoptimized version.
+	- [create sorted list](./ProgrammingBasics/createSortedList.cpp) - Return a sorted list from random vector. Display the time of sorting a vector and sorting a list.
+	- [create map](./ProgrammingBasics/createMap.cpp) - Function take a vector and a list then return map with vector as keys and list as values.
+	- [add even](./ProgrammingBasics/addEven) - (*README*) add every even number from vector.
+	- [GCD and LCM](./ProgrammingBasics/GCD\&LCM) - (*README*) Calculate GCD and LCM.
 2. [Basics of programming tools](./BasicsOfProgrammingTools/)
 	- [terminal magic](./BasicsOfProgrammingTools/TerminalMagic/) - basic of Linux commands.
 
+## Screenshots
+
+<div align="center">
+
+<img src="screenshots/03.png" alt="03"/>
+
+</div>

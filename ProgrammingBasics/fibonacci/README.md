@@ -11,6 +11,7 @@ mkdir build
 cd build
 cmake ..
 make
+./fibonacci
 GTEST_COLOR=1 ctest -V
 ```
 or replace last command with
