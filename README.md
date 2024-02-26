@@ -39,10 +39,19 @@ Feel free to explore my solutions within this repository!
 	- [fibanacci](./ProgrammingBasics/fibanacci) - (*README*) fibonacci sequence iterative and recursive.
 	- [print vector](./ProgrammingBasics/printVector.cpp) - Print an elements of vector of strings.
 	- [concatinate vectors](./ProgrammingBasics/concatinateVectors.cpp) - Concatinate two vectors. Contain an optimized and unoptimized version.
-	- [create sorted list](./ProgrammingBasics/createSortedList.cpp) - Return a sorted list from random vector. Display the time of sorting a vector and sorting a list.
+	- [create sorted list](./ProgrammingBasics/createSortedList.cpp) - Return a sorted list from random vector. Display the time of sorting a vector and a list.
 	- [create map](./ProgrammingBasics/createMap.cpp) - Function take a vector and a list then return map with vector as keys and list as values.
 	- [add even](./ProgrammingBasics/addEven) - (*README*) add every even number from vector.
-	- [GCD and LCM](./ProgrammingBasics/GCD\&LCM) - (*README*) Calculate GCD and LCM.
+	- [GCD and LCM](./ProgrammingBasics/GCD\&LCM) - (*README*) calculate GCD and LCM.
+	- [generate sequence](./ProgrammingBasics/generateSequence/) - (*README*) generate a vector with sequence of numbers.
+	- [max of vector](./ProgrammingBasics/maxOfVector/) - (*README*) return biggest number in vector.
+	- [replace string](./ProgrammingBasics/replaceString.cpp) - replace string with another string using reference.
+	- [change value of variable](./ProgrammingBasics/changeValueOfVariable.cpp) - showcase of pointer and reference.
+	- [simple smart pointer](./ProgrammingBasics/simpleSmartPointer.cpp) - showcase of smart pointer.
+	- [smart pointer multiplication](./ProgrammingBasics/replaceString.cpp) - showcase of smart pointer created in function.
+	- [password check](./ProgrammingBasics/passwordCheck/) - (*README*) function that return an enum depend on if password fulfill specific rules.
+	- [vector of shared pointers](./ProgrammingBasics/vectorOfSharedPointers/) - (*README*) Operation of subtraction and addition to ints stored by vector of shared pointers to int.
+
 2. [Basics of programming tools](./BasicsOfProgrammingTools/)
 	- [terminal magic](./BasicsOfProgrammingTools/TerminalMagic/) - basic of Linux commands.
 
