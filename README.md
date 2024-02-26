@@ -50,7 +50,7 @@ Feel free to explore my solutions within this repository!
 	- [simple smart pointer](./ProgrammingBasics/simpleSmartPointer.cpp) - showcase of smart pointer.
 	- [smart pointer multiplication](./ProgrammingBasics/replaceString.cpp) - showcase of smart pointer created in function.
 	- [password check](./ProgrammingBasics/passwordCheck/) - (*README*) function that return an enum depend on if password fulfill specific rules.
-	- [vector of shared pointers](./ProgrammingBasics/vectorOfSharedPointers/) - (*README*) Operation of subtraction and addition to ints stored by vector of shared pointers to int.
+	- [vector of shared pointers](./ProgrammingBasics/vectorOfSharedPointers/) - (*README*) Operations on ints stored by vector of shared pointers to int.
 
 2. [Basics of programming tools](./BasicsOfProgrammingTools/)
 	- [terminal magic](./BasicsOfProgrammingTools/TerminalMagic/) - basic of Linux commands.
