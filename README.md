@@ -30,41 +30,41 @@ Feel free to explore my solutions within this repository!
 
 ## Contents
 
-1. [Programming basics](main/ProgrammingBasics/)
-	- [print String](main/ProgrammingBasics/printString.cpp) - Print a string $x$ times.
-	- [max](main/ProgrammingBasics/max.cpp) - Find max value from 3 numbers.
-	- [multiply](main/ProgrammingBasics/multiply.cpp) - Multiply 2 numbers.
-	- [for loop test](main/ProgrammingBasics/forLoopTest.cpp) - Add to array next odd numbers.
-	- [calculate](main/ProgrammingBasics/calculate) - (main/*README*) simple calculator with tests.
-	- [fibanacci](main/ProgrammingBasics/fibanacci) - (main/*README*) fibonacci sequence iterative and recursive.
-	- [print vector](main/ProgrammingBasics/printVector.cpp) - Print an elements of vector of strings.
-	- [concatinate vectors](main/ProgrammingBasics/concatinateVectors.cpp) - Concatinate two vectors. Contain an optimized and unoptimized version.
-	- [create sorted list](main/ProgrammingBasics/createSortedList.cpp) - Return a sorted list from random vector. Display the time of sorting a vector and a list.
-	- [create map](main/ProgrammingBasics/createMap.cpp) - Function take a vector and a list then return map with vector as keys and list as values.
-	- [add even](main/ProgrammingBasics/addEven) - (main/*README*) add every even number from vector.
-	- [GCD and LCM](main/ProgrammingBasics/GCD\&LCM) - (main/*README*) calculate GCD and LCM.
-	- [generate sequence](main/ProgrammingBasics/generateSequence/) - (main/*README*) generate a vector with sequence of numbers.
-	- [max of vector](main/ProgrammingBasics/maxOfVector/) - (main/*README*) return biggest number in vector.
-	- [replace string](main/ProgrammingBasics/replaceString.cpp) - replace string with another string using reference.
-	- [change value of variable](main/ProgrammingBasics/changeValueOfVariable.cpp) - showcase of pointer and reference.
-	- [simple smart pointer](main/ProgrammingBasics/simpleSmartPointer.cpp) - showcase of smart pointer.
-	- [smart pointer multiplication](main/ProgrammingBasics/replaceString.cpp) - showcase of smart pointer created in function.
-	- [password check](main/ProgrammingBasics/passwordCheck/) - (main/*README*) function that return an enum depend on if password fulfill specific rules.
-	- [vector of shared pointers](main/ProgrammingBasics/vectorOfSharedPointers/) - (main/*README*) Operations on ints stored by vector of shared pointers to int.
+1. [Programming basics](./ProgrammingBasics/)
+	- [print String](./ProgrammingBasics/printString.cpp) - Print a string $x$ times.
+	- [max](./ProgrammingBasics/max.cpp) - Find max value from 3 numbers.
+	- [multiply](./ProgrammingBasics/multiply.cpp) - Multiply 2 numbers.
+	- [for loop test](./ProgrammingBasics/forLoopTest.cpp) - Add to array next odd numbers.
+	- [calculate](./ProgrammingBasics/calculate) - (./*README*) simple calculator with tests.
+	- [fibanacci](./ProgrammingBasics/fibanacci) - (./*README*) fibonacci sequence iterative and recursive.
+	- [print vector](./ProgrammingBasics/printVector.cpp) - Print an elements of vector of strings.
+	- [concatinate vectors](./ProgrammingBasics/concatinateVectors.cpp) - Concatinate two vectors. Contain an optimized and unoptimized version.
+	- [create sorted list](./ProgrammingBasics/createSortedList.cpp) - Return a sorted list from random vector. Display the time of sorting a vector and a list.
+	- [create map](./ProgrammingBasics/createMap.cpp) - Function take a vector and a list then return map with vector as keys and list as values.
+	- [add even](./ProgrammingBasics/addEven) - (./*README*) add every even number from vector.
+	- [GCD and LCM](./ProgrammingBasics/GCD\&LCM) - (./*README*) calculate GCD and LCM.
+	- [generate sequence](./ProgrammingBasics/generateSequence/) - (./*README*) generate a vector with sequence of numbers.
+	- [max of vector](./ProgrammingBasics/maxOfVector/) - (./*README*) return biggest number in vector.
+	- [replace string](./ProgrammingBasics/replaceString.cpp) - replace string with another string using reference.
+	- [change value of variable](./ProgrammingBasics/changeValueOfVariable.cpp) - showcase of pointer and reference.
+	- [simple smart pointer](./ProgrammingBasics/simpleSmartPointer.cpp) - showcase of smart pointer.
+	- [smart pointer multiplication](./ProgrammingBasics/replaceString.cpp) - showcase of smart pointer created in function.
+	- [password check](./ProgrammingBasics/passwordCheck/) - (./*README*) function that return an enum depend on if password fulfill specific rules.
+	- [vector of shared pointers](./ProgrammingBasics/vectorOfSharedPointers/) - (./*README*) Operations on ints stored by vector of shared pointers to int.
 
-2. [Basics of programming tools](main/BasicsOfProgrammingTools/)
-	- [terminal magic](main/BasicsOfProgrammingTools/TerminalMagic/) - basic of Linux commands.
+2. [Basics of programming tools](./BasicsOfProgrammingTools/)
+	- [terminal magic](./BasicsOfProgrammingTools/TerminalMagic/) - basic of Linux commands.
 
-3. [STL](main/STL/)
-	- [vector test](main/STL/vectorTests.cpp) - A few functions from std::vector
-	- [vector test2](main/STL/vectorTests2.cpp) - reminder about size and capacity difference
-	- [arrat test](main/STL/arrayTests.cpp) - A few functions from std::array
-	- [list test](main/STL/listTests.cpp) - A few functions from std::list
-	- [forward list test](main/STL/forewardListTests.cpp) - A few functions from std::forward_list
-	- [deque test](main/STL/dequeTests.cpp) - A few functions from std::deque
-	- [remove vowels](main/STL/removeVowels/) - (main/*README*) Remove vowels from strings in vector
-	- [length sort](main/STL/lengthSort/) - (main/*README*) It is an insertion sort from forward_list to deque
-	- [gray scale image](main/STL/grayScaleImage/) - (main/*README*) Compresion and decompresion of raw pgm format
+3. [STL](./STL/)
+	- [vector test](./STL/vectorTests.cpp) - A few functions from std::vector
+	- [vector test2](./STL/vectorTests2.cpp) - reminder about size and capacity difference
+	- [arrat test](./STL/arrayTests.cpp) - A few functions from std::array
+	- [list test](./STL/listTests.cpp) - A few functions from std::list
+	- [forward list test](./STL/forewardListTests.cpp) - A few functions from std::forward_list
+	- [deque test](./STL/dequeTests.cpp) - A few functions from std::deque
+	- [remove vowels](./STL/removeVowels/) - (./*README*) Remove vowels from strings in vector
+	- [length sort](./STL/lengthSort/) - (./*README*) It is an insertion sort from forward_list to deque
+	- [gray scale image](./STL/grayScaleImage/) - (./*README*) Compresion and decompresion of raw pgm format
 
 
 ## Screenshots
