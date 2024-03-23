@@ -55,10 +55,24 @@ Feel free to explore my solutions within this repository!
 2. [Basics of programming tools](./BasicsOfProgrammingTools/)
 	- [terminal magic](./BasicsOfProgrammingTools/TerminalMagic/) - basic of Linux commands.
 
+3. [STL](./STL/)
+	- [vector test](./STL/vectorTests.cpp) - A few functions from std::vector
+	- [vector test2](./STL/vectorTests2.cpp) - reminder about size and capacity difference
+	- [arrat test](./STL/arrayTests.cpp) - A few functions from std::array
+	- [list test](./STL/listTests.cpp) - A few functions from std::list
+	- [forward list test](./STL/forewardListTests.cpp) - A few functions from std::forward_list
+	- [deque test](./STL/dequeTests.cpp) - A few functions from std::deque
+	- [remove vowels](./STL/removeVowels/) - (*README*) Remove vowels from strings in vector
+	- [length sort](./STL/lengthSort/) - (*README*) It is an insertion sort from forward_list to deque
+	- [gray scale image](./STL/grayScaleImage/) - (*README*) Compresion and decompresion of raw pgm format
+
+
 ## Screenshots
 
 <div align="center">
 
 <img src="screenshots/03.png" alt="03"/>
+<img src="screenshots/05.png" height=300 alt="05"/>
+<img src="screenshots/07.png" height=300 alt="07"/>
 
 </div>
